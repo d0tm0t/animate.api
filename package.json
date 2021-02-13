@@ -20,5 +20,7 @@
   "sass-loader": "^8.0.2",
   "vue-loader": "15.9.6"
  },
- "dependencies": {}
+ "dependencies": {
+  "@fortawesome/fontawesome-free": "^5.15.2"
+ }
 }

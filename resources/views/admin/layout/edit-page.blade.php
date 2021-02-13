@@ -17,7 +17,7 @@
 
 </head>
 
-<body>
+<body class="app sidebar-lg-show">
  @yield('content')
 
 
