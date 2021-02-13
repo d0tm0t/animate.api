@@ -1,0 +1,11 @@
+#app,
+#app iframe {
+  height: 100%;
+  width: 100%;
+  border: none;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
